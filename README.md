@@ -1,1 +1,3 @@
-# word2vec-rag-experiment
+# Quati IR Experiment
+
+Dataset: https://huggingface.co/datasets/unicamp-dl/quati
